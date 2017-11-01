@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New paper - "Mechanisms Linking Global 5-Day Waves to Tropical Convection"
+title: "New paper: Mechanisms Linking Global 5-Day Waves to Tropical Convection"
 author: Malcolm King
 date: 2017-11-02
 ---
